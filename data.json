@@ -1,0 +1,106 @@
+{
+    "jajanan":[
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Potato Stick",
+            "deskripsi": "Pasti ingat kan, snack 90-an yang satu ini? Chiki potato stick biasanya dapat ditemukan di minimarket dan supermarket-supermarket besar.",
+            "gambar": "potato-stick.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "Cokelat Payung",
+            "deskripsi": "Coklat dengan bentuk payung yang unik ini sudah sangat sulit ditemukan, mungkin sudah tidak diproduksi kembali. Tapi, tentu Toppers punya kenangan tersendiri dengan jajanan jadul era 90-an ini, bukan?",
+            "gambar": "cokelat-payung.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Anakmas",
+            "deskripsi": "Pasti kalian semua <i>guilty</i> pernah makan mie mentah lalu diremas dijadikan mie remes. Memang ada banyak merek mie remes, salah satunya merek Anakmas yang terkenal ini.",
+            "gambar": "anakmas.png"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Superman",
+            "deskripsi": "Wafer Superman yang ikonik dengan gambar Superman di bungkusannya ini dulu tersedia di warung-warung kecil. Sekarang memang masih diproduksi tetapi sudah susah ditemukan dan bungkusannya pun sudah berbeda.",
+            "gambar": "superman.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "Jagoan Neon",
+            "deskripsi": "Tau, kan, permen Jagoan Neon yang bikin lidah jadi biru ini kalau habis dimakan? Pastinya juga nggak lupa sama hadiah-hadiah stickenya.",
+            "gambar": "jagoan-neon.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Milk Chocolate",
+            "deskripsi": "<i>Snack</i> jadul selanjutnya adalah Coklat Ayam. Coklat ini terkenal enak dan murah, favorit jajanan SD di tahun 90-an.",
+            "gambar": "milk-chocolate.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Choki Choki",
+            "deskripsi": "Coklat yang berbentuk pasta satu ini bisa kamu makan sebagai apa saja. Bisa jadi selai di roti, ditambahkan di biskuit, ataupun dimakan dengan sendirinya.",
+            "gambar": "choki-choki.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "Permen Rokok",
+            "deskripsi": "Siapa sih yang tidak tahu permen satu ini? Permen rokok ini memiliki banyak versi yaitu versi bubuk dan versi permen biasa.",
+            "gambar": "permen-rokok.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Mie Lidi",
+            "deskripsi": "Mie Lidi yang tersedia dalam rasa pedas dan asin ini kesukaan anak generasi 90-an yang sampai sekarang masih sering ditemukan di warung-warung.",
+            "gambar": "mie-lidi.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "White Rabbit",
+            "deskripsi": "Toppers tahu kan permen khas 90-an yang kertasnya bisa dimakan ini? Sekali makan bikin ketagihan!",
+            "gambar": "white-rabbit.jpg"
+        },
+        {
+            "kategori": ["Tradisional"],
+            "judul": "Telur Gulung",
+            "deskripsi": "Yakin deh, pasti Toppers pernah, kan, mau coba membuat telur gulung sendiri di rumah tetapi gagal? Tidak ada yang tahu resepnya kecuali si penjual yang lihai dalam menggulung telurnya. Salah satu jajanan generasi 90-an yang wajib dicoba!",
+            "gambar": "telur-gulung.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "Cokelat Kacamata",
+            "deskripsi": "Salah satu jajanan jadul paling hits di era 90-an, yaitu coklat kacamata. Bentuk kemasannya yang seperti kacamata menarik sekali dan sering digunakan seperti kacamata dengan cara mengaitkan karet ke sampingnya.",
+            "gambar": "coklat-kacamata.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Krip Krip",
+            "deskripsi": "Makanan yang berbungkusan kecil berisi mie ini sekali makan langsung habis. Tidak cukup satu aja pastinya!",
+            "gambar": "krip-krip.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Choyo Choyo",
+            "deskripsi": "Jajanan jadul 90-an ini produk dari Yosan, yaitu coklat pasta. Yang suka coklat pasti sering beli Choyo-Choyo pada saat istrahat sekolah.",
+            "gambar": "choyo-choyo.jpg"
+        },
+        {
+            "kategori": ["Tradisional", "Permen"],
+            "judul": "Gulali",
+            "deskripsi": "Toppers belum keren di tahun 90-an kalau belum mencoba gulali. Gulali hadir dengan aneka warna dan bisa dibentuk sesuai permintaan kita. Seru, kan?",
+            "gambar": "gulali.jpg"
+        },
+        {
+            "kategori": ["Permen"],
+            "judul": "Dreamy",
+            "deskripsi": "Permen Dreamy dengan bungkus kecil yang berisi permen-permen kecil ini menjadi kesukaan anak era 90-an.",
+            "gambar": "dreamy.jpg"
+        },
+        {
+            "kategori": ["Cemilan Ringan"],
+            "judul": "Mie Remez",
+            "deskripsi": "Mi remes yang satu ini populer banget. Bungkusannya yang warna-warni sangat menarik perhatian anak-anak.",
+            "gambar": "mie-remez.jpg"
+        }
+    ]
+}

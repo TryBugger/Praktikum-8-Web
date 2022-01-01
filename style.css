@@ -1,0 +1,41 @@
+h4 {    
+    margin: auto 400px 30px;
+    padding: 10px 5px;
+
+    background-color: rgba(94, 198, 247, 0.8);
+
+    border-radius: 20px;
+    text-align: center;
+}
+
+body {
+    background-image: url("img/img-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.makananCard {
+    min-height: max-content;
+    width: 100%;
+}
+
+.makananCardHeader {
+    background-color: #56c9ff;
+}
+
+.makananCardImg {
+    background-color: #c7f7ff;
+
+    object-fit: contain; 
+    height: 180px !important; 
+}
+
+.makananCardBody {
+    background-color: #a1e1ff;
+}
+
+.makananCardFooter {
+    background-color: #a1e1ff; 
+    border-top: none;
+}
